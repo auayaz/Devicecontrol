@@ -1,3 +1,3 @@
 # Device control
 
-This code controls the image capturing of a SLR camera 
+This code controls picture capturing with a SLR camera
